@@ -10,7 +10,7 @@ function Home() {
   return (
     <div>
       <div className="bg-yellow-100 border border-yellow-300 p-8 text-center mb-8">
-        <h2 className="text-3xl font-bold mb-2">Welcome to MyShop!</h2>
+        <h2 className="text-3xl font-bold mb-2">Welcome to Bips_Shop!</h2>
         <p className="text-gray-600 mb-4">We sell the best products at the best prices.</p>
         <Link
           to="/products"

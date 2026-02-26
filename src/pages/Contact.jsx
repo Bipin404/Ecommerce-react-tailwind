@@ -44,9 +44,9 @@ function Contact() {
         <div>
           <h3 className="text-lg font-bold mb-3">Our Info</h3>
           <div className="border p-4 rounded">
-            <p className="mb-2"><span className="font-medium">Address:</span> 123 Main Street, New York, NY 10001</p>
-            <p className="mb-2"><span className="font-medium">Phone:</span> (555) 123-4567</p>
-            <p className="mb-2"><span className="font-medium">Email:</span> support@myshop.com</p>
+            <p className="mb-2"><span className="font-medium">Address:</span> Kalanki,Kathmandu</p>
+            <p className="mb-2"><span className="font-medium">Phone:</span> 9860809857</p>
+            <p className="mb-2"><span className="font-medium">Email:</span> support@bipsshop.com</p>
             <p className="mb-2"><span className="font-medium">Hours:</span> Mon-Fri 9am to 5pm</p>
           </div>
         </div>
